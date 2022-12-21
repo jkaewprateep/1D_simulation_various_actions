@@ -26,7 +26,7 @@ _____________________________________________________________________
 
 ### Our keys equations ###
 
-The coeff_01 is initail telling one parameter AI can controls is ```player_x_value``` byside the equation ```fruit_x_value - fruit_y_value``` that create the AI need to move the bar in X axis, target functions is ```player_x_value - fruit_x_value``` because all conditions is complete as the ```player_x_value``` change and ```fruit_x_value``` values does not change. The sameple result value is ```{ 7.2, 12.4, 6.0  } ==> action: 1``` and ```{ 7.2,   2.2, 4.2 } ==> action: 0```
+The coeff_01 is initail telling one parameter AI can controls is ```player_x_value``` byside the equation ```fruit_x_value - fruit_y_value``` that create the AI need to move the bar in X axis, target functions is ```player_x_value - fruit_x_value``` because all conditions is complete as the ```player_x_value``` change and ```fruit_x_value``` values does not change. The sameple result value is ```{ 7.2, 12.4, 6.0  } ==> action: 1``` and ```{ 7.2,   2.2, 4.2 } ==> action: 0``` and ```{ 11.7, 13.8, 17.5 }  ==> action: 2```
 
 ```
 coeff_01 = player_x_value - ( 256 - fruit_y_value )

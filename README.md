@@ -9,4 +9,9 @@
 
 ## Result image ##
 
+![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/random_catcher.gif?raw=true "Title")
+
+
 ![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/FlappyBirds.gif?raw=true "Title")
+
+

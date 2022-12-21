@@ -42,20 +42,36 @@ action = int(tf.math.argmax(temp, axis=0))
 print( "action: " + str( action ) )
 ```
 
+## Files and Directory ##
 
+| File name  | Description |
+| ------------- | ------------- |
+| sample.py  | simple functions  |
+| FlappyBirds.gif  | result image Flappy Birds games  |
+| random_catcher.gif  | result image Catcher game  |
+| random_copter.gif  | result image Pixel copter games  |
+| README.md  | readme file  |
 
 ## Result image ##
 
+Sample games environments responses for various problems and infinite running time.
+
 #### Catcher games ####
+
+Environment responses: K_w, K_h, K_a
 
 ![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/random_catcher.gif?raw=true "Title")
 
 
 #### Flappy Bird games ###
 
+Environment responses: K_w, K_h
+
 ![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/FlappyBirds.gif?raw=true "Title")
 
 
 #### Pixel Copter games ###
+
+Environment responses: K_w, K_h
 
 ![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/random_copter.gif?raw=true "Title")

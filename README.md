@@ -9,9 +9,16 @@
 
 ## Result image ##
 
+#### Catcher games ####
+
 ![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/random_catcher.gif?raw=true "Title")
 
+
+#### Flappy Bird games ###
 
 ![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/FlappyBirds.gif?raw=true "Title")
 
 
+#### Pixel Copter games ###
+
+![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/random_copter.gif?raw=true "Title")

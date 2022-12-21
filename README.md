@@ -9,4 +9,4 @@
 
 ## Result image ##
 
-![Alt text](https://github.com/jkaewprateep/Mel-Frequency-response/blob/main/Figure_2.png?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/1D_simulation_various_actions/blob/main/FlappyBirds.gif?raw=true "Title")

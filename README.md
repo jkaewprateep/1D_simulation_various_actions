@@ -10,7 +10,7 @@ Basic information for computer visions and games related, they are using X and Y
 
 ### Axises and Dimensions ###
 
-Change of X is player_x_value and the change of Y is ( 256 - fruit_y_value ) from the game getGameState() in PLE. Our objective is to reduces the contrast between ```player_x_value and player_x_value``` to have a rewards return. 🐑💬 For AI networks training it will select the most functions response, waiting the AI to learn from rewards you need a galics hit your bar but ```fruit_x_value - fruit_y_value``` tell the AI to start move bar and the AI will ignored because the different value or scales different, acclerate functions.
+Change of X is player_x_value and the change of Y is ( 256 - fruit_y_value ) from the game getGameState() in PLE. Our objective is to reduces the contrast between ```player_x_value and player_x_value``` to have a rewards return. 🐑💬 For AI networks training it will select the most functions response, waiting the AI to learn from rewards you need a galics hit your bar but ```fruit_x_value - fruit_y_value``` tell the AI to start move bar and the AI will ignored because the different value or scales different, acclerate functions. The function ```SoftMax()``` can apply for significant value contrast and ```Random()``` functions also.
 
 ```
 _____________________________________________________________________

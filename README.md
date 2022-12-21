@@ -1,6 +1,8 @@
 # 1D_simulation_various_actions
 1D Simulation of randoms actions response with parameters for equations, we create some equations for Flappy birds games as 2D question now we do it for 1D and it will clearly explain of how the parallel parameters work at the remotes devices and IF-ELSE, RAND conditions within target devices without OS or Tensorflow using tranined parameters from Tensorflow as the Flappy bird games.
 
+🧸💬 See it this way, he create guiding equation that perfrom well with the inputs as a data preparation step, you input anything into networks the AI try to learn as it process of optimizers, back-propagations or weights copy but it will take time as we also examines how does the optimizers work and their capabilities. it is not a magic tools create eveyrthing out from your inputs but you need to indicated and significants data or your experiences how you see the data. In this level the data engineer and business requirements need to work honestly on data input often they filled various inputs sometimes it is difficults to trackings such as one side abosulute. 💃( 👩‍🏫 )💬 You see all are correct and the optimizer perfrom normal as normal process but there are more than critical points.
+
 
 ## Catcher games ###
 
